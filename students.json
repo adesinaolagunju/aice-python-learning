@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Adesina",
+        "age": 20,
+        "score": 85
+    },
+    {
+        "name": "Bola",
+        "age": 22,
+        "score": 72
+    },
+    {
+        "name": "Chidi",
+        "age": 21,
+        "score": 55
+    },
+    {
+        "name": "Dayo",
+        "age": 23,
+        "score": 55
+    },
+    {
+        "name": "Emeka",
+        "age": 20,
+        "score": 38
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "name": "Adesina",
+    "age": 26,
+    "country": "Nigeria",
+    "scores": [
+        85,
+        90,
+        78
+    ],
+    "is_student": true
+}
